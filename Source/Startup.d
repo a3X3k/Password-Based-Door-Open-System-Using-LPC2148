@@ -1,0 +1,1 @@
+.\startup.o: Startup.s
