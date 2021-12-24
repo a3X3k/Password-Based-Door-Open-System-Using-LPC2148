@@ -17,7 +17,7 @@
 | | Table Of Contents |
 |--|----------------|
 | 1 | [About](#About)  |
-| 2 | [Setup](#setup)  | 
+| 2 | [Setup](#Setup)  | 
 | 3 | [Contributors](#Contributors) | 
 
 </div>
@@ -63,11 +63,11 @@
 
 <div align = "center">
 	
-## Software Required
+## Setup
 	
 </div>
 
-- Keil IDE
+- We have implemented this on Keil IDE.
 
 <div align = "center">
 	
