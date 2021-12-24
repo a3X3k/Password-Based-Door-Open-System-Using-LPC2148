@@ -48,9 +48,6 @@
 	
 </div>
 
-- Security is a prime concern in our day-to-day life. 
-- The standard type of doorknob is easy to manipulate and provides weak protection. 
-- This is the prime objective to move from conventional locks to digital locks.
 - Many years ago, when security was less of a concern in the society, our forefathers comfortably used 
 simple sleeping mats to cover the doors of their huts. 
 - They were not bothered at all by any event of a burglary attack because they had a system that wouldn’t 
@@ -68,19 +65,6 @@ device.
 - The objective of this project in its simplest terms is to replace metallic keys by building a fully featured 
 password enabled electronic security system prototype. 
 - One such device is Password Based Door Open System Using LPC2148
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-<div align = "center">
-	
-## Working
-	
-</div>
-
-- Unlike the traditional door lock system, keypad door locks do not have any need for physical keys. 
-- They are basically keyless; that is, anyone can lock or unlock them even without keys. 
-- Technically, they work like the ATMs. People only need to punch in their secret combination numbers in 
-order to lock or unlock their doors. 
 - With this kind of entry system, people no longer have to worry about lost or stolen keys and they never 
 have to bring keys with them everywhere they go or hide them in secret places to keep them away from the 
 hands of unauthorized individuals. 
