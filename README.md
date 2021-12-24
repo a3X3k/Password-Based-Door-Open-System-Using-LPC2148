@@ -24,7 +24,11 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+<div align = "center">
+	
 ## Directory Structure
+	
+</div>
 
 ```js
 ├── Source
@@ -37,8 +41,14 @@
 ```
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-  
+
+
+<div align = "center">
+	
 ## About
+	
+</div>
+
 
 - Security is a prime concern in our day-to-day life. Everyone wants to be as secure as possible. 
 - Our doors serve as entrances to our homes and offices. They may also provide access to strangers, criminals and offenders. 
@@ -50,7 +60,11 @@ password enabled electronic security system prototype.
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+<div align = "center">
+	
 ## Introduction 
+	
+</div>
 
 - Many years ago, when security was less of a concern in the society, our forefathers comfortably used 
 simple sleeping mats to cover the doors of their huts. 
@@ -71,7 +85,11 @@ device.
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+<div align = "center">
+	
 ## AIM
+	
+</div>
 
 - Unlike the traditional door lock system, keypad door locks do not have any need for physical keys. 
 - They are basically keyless; that is, anyone can lock or unlock them even without keys. 
@@ -95,7 +113,11 @@ key that will be able to:
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+<div align = "center">
+	
 ## Components Required
+	
+</div>
 
 - LPC2148 Development board
 - LCD Module
@@ -105,7 +127,11 @@ key that will be able to:
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+<div align = "center">
+	
 ## Software Required
+	
+</div>
 
 - Keil IDE
 
@@ -113,7 +139,11 @@ key that will be able to:
 	
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 	
+<div align = "center">
+	
 ## Other Contributors
+	
+</div>
   
 | [Harsha Sathish](https://github.com/hxrshx) |
 |----------------|
