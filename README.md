@@ -80,6 +80,9 @@
 </div>
   
 | [Harsha Sathish](https://github.com/hxrshx) |
+| [Kanchi Durga Priyanka](https://in.linkedin.com/in/kanchi-durga-priyanka-3440311b8) |
+| [Srija Tiyyagura](https://in.linkedin.com/in/srija-tiyyagura-62b8331b2) |
+| [Arvind Kumar K](https://github.com/arvindkumar-prog) |
 |----------------|
 
 </div>
