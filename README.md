@@ -42,35 +42,19 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-
 <div align = "center">
 	
 ## About
 	
 </div>
 
-
-- Security is a prime concern in our day-to-day life. Everyone wants to be as secure as possible. 
-- Our doors serve as entrances to our homes and offices. They may also provide access to strangers, criminals and offenders. 
-- An access control for doors forms a vital link in a security chain. This is the sole purpose of door locks.
+- Security is a prime concern in our day-to-day life. 
 - The standard type of doorknob is easy to manipulate and provides weak protection. 
 - This is the prime objective to move from conventional locks to digital locks.
-- The objective of this project in its simplest terms is to replace metallic keys by building a fully featured 
-password enabled electronic security system prototype. 
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-<div align = "center">
-	
-## Introduction 
-	
-</div>
-
 - Many years ago, when security was less of a concern in the society, our forefathers comfortably used 
 simple sleeping mats to cover the doors of their huts. 
 - They were not bothered at all by any event of a burglary attack because they had a system that wouldn’t 
-allow that to happen. 
-- Everyone knew their neighbors and virtually everyone else in the village. 
+allow that to happen. Everyone knew their neighbors and virtually everyone else in the village. 
 - Nowadays it has become almost impossible to achieve that kind of sanity and therefore various tools have 
 been employed over the years to safeguard the lives and properties of its owners. 
 - The present electronic security system we now enjoy have unequivocally been around for a very long time, 
@@ -81,13 +65,15 @@ using electronic equipment such as the microcontrollers which is intended to be 
 achieve a satisfactory security system.
 - Nowadays, many devices’ operations are based on digital technology like a token-based digital identity 
 device. 
+- The objective of this project in its simplest terms is to replace metallic keys by building a fully featured 
+password enabled electronic security system prototype. 
 - One such device is Password Based Door Open System Using LPC2148
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div align = "center">
 	
-## AIM
+## Working
 	
 </div>
 
