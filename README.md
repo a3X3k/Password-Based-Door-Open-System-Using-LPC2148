@@ -63,6 +63,12 @@
 
 <div align = "center">
 	
+## Circuit Diagram
+	
+![image](https://user-images.githubusercontent.com/52845731/147398600-774513ca-17a2-4b83-8572-7a57bf849352.png)
+	
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+	
 ## Setup
 	
 </div>
@@ -72,8 +78,6 @@
 <div align = "center">
 	
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-	
-<div align = "center">
 	
 ## Contributors
 	
