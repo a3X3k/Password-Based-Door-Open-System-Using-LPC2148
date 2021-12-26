@@ -80,8 +80,6 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 	
 ## Contributors
-	
-</div>
   
 | [Harsha Sathish](https://github.com/hxrshx) | [Kanchi Durga Priyanka](https://in.linkedin.com/in/kanchi-durga-priyanka-3440311b8) | [Srija Tiyyagura](https://in.linkedin.com/in/srija-tiyyagura-62b8331b2) | [Arvind Kumar K](https://github.com/arvindkumar-prog) |
 |----------------|----------------|----------------|----------------|
