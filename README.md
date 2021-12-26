@@ -67,7 +67,7 @@
 	
 </div>
 
-- We have implemented this in **Keil IDE**.
+- Software Used : **Keil IDE**.
 
 <div align = "center">
 	
@@ -75,7 +75,7 @@
 	
 <div align = "center">
 	
-## Other Contributors
+## Contributors
 	
 </div>
   
