@@ -63,9 +63,24 @@
 
 <div align = "center">
 	
-## Circuit Diagram
+## Working Principle
 	
-![image](https://user-images.githubusercontent.com/52845731/147398600-774513ca-17a2-4b83-8572-7a57bf849352.png)
+</div>
+
+- At the lowest level, keyboards are organized in a matrix of rows and columns. 
+- The CPU accesses both rows and columns through ports.
+- When a key is pressed, a row and a column make a contact. otherwise, there is no connection between rows 
+and columns. 
+- The status of each key can be determined by a process called Scanning. 
+- There are many methods depending on how you connect your keypad with your controller, but the basic 
+logic is the same. 
+- Let’s assume that all the column pins (Col1 – Col4) are connected to the input’s pins and all the row pins 
+are connected to the output pins of the microcontroller.
+- In the normal case, all the column pins are pulled up (HIGH state) by internal or external pull-up resistors. 
+- Now we can read the status of each switch through scanning.
+- A logic LOW is given to Row1 and others (Row2 – Row-4) HIGH. 
+- Now each Column is scanned and if any switch belongs to the 1st row is pressed the corresponding column 
+will pull down (logic LOW) and we can detect the pressed key. This process is repeated for all rows.
 	
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 	
@@ -75,6 +90,19 @@ Software Used : **Keil IDE**.
 
 <div align = "center">
 	
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+	
+<div align = "center">
+	
+## Limitation & Scope
+	
+</div>
+
+- This project would only feature a password-based electronic door access system. 
+- In other words, it only incorporates the hexadecimal keypad only for authentication. 
+- Other more advanced security features such as a fingerprint sensor, an iris scanner or a facial recognition 
+camera would not be incorporated.
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 	
 ## Contributors
