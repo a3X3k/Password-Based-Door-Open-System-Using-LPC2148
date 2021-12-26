@@ -17,8 +17,10 @@
 | | Table Of Contents |
 |--|----------------|
 | 1 | [About](#About)  |
-| 2 | [Setup](#Setup)  | 
-| 3 | [Contributors](#Contributors) | 
+| 2 | [Working](#Working)  |
+| 3 | [Setup](#Setup)  | 
+| 4 | [Limitation & Scope](#Limitation%20&%20Scope)  |
+| 5 | [Contributors](#Contributors) | 
 
 </div>
 
@@ -63,7 +65,7 @@
 
 <div align = "center">
 	
-## Working Principle
+## Working
 	
 </div>
 
