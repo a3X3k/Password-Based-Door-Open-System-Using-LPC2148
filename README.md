@@ -19,7 +19,7 @@
 | 1 | [About](#About)  |
 | 2 | [Working](#Working)  |
 | 3 | [Setup](#Setup)  | 
-| 4 | [Limitation & Scope](#Limitation%20&%20Scope)  |
+| 4 | [Limitation & Scope](#Limitation)  |
 | 5 | [Contributors](#Contributors) | 
 
 </div>
@@ -94,7 +94,7 @@ Software Used : **Keil IDE**.
 	
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 	
-## Limitation & Scope
+## Limitation
 	
 </div>
 
